@@ -1,0 +1,12 @@
+[2023-08-20 14:31:43,735]^;INFO^;165^;__init__.py^;__init__()^;inputfile to dataframe conversion started
+[2023-08-20 14:31:43,930]^;INFO^;169^;__init__.py^;__init__()^;input file to dataframe conversion completed
+[2023-08-20 14:31:43,930]^;INFO^;171^;__init__.py^;__init__()^;removing Wafer column started
+[2023-08-20 14:32:48,375]^;INFO^;165^;__init__.py^;__init__()^;inputfile to dataframe conversion started
+[2023-08-20 14:32:48,596]^;INFO^;169^;__init__.py^;__init__()^;input file to dataframe conversion completed
+[2023-08-20 14:32:48,597]^;INFO^;171^;__init__.py^;__init__()^;removing Wafer column started
+[2023-08-20 14:36:29,462]^;INFO^;165^;__init__.py^;__init__()^;inputfile to dataframe conversion started
+[2023-08-20 14:36:29,672]^;INFO^;169^;__init__.py^;__init__()^;input file to dataframe conversion completed
+[2023-08-20 14:36:29,672]^;INFO^;171^;__init__.py^;__init__()^;removing Wafer column started
+[2023-08-20 14:36:36,507]^;INFO^;165^;__init__.py^;__init__()^;inputfile to dataframe conversion started
+[2023-08-20 14:36:36,663]^;INFO^;169^;__init__.py^;__init__()^;input file to dataframe conversion completed
+[2023-08-20 14:36:36,663]^;INFO^;171^;__init__.py^;__init__()^;removing Wafer column started

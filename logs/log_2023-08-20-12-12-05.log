@@ -1,0 +1,9 @@
+[2023-08-20 12:12:09,942]^;INFO^;99^;__init__.py^;__init__()^;prediction_validaion started
+[2023-08-20 12:12:09,942]^;INFO^;100^;__init__.py^;__init__()^;predict_schema file reading started
+[2023-08-20 12:12:09,954]^;INFO^;105^;__init__.py^;__init__()^;predict_schema file reading completed
+[2023-08-20 12:12:09,955]^;INFO^;116^;__init__.py^;__init__()^;file format checking started
+[2023-08-20 12:12:10,286]^;INFO^;118^;__init__.py^;__init__()^;file format checking completed
+[2023-08-20 12:12:10,287]^;INFO^;119^;__init__.py^;__init__()^;na value check started
+[2023-08-20 12:12:13,851]^;INFO^;121^;__init__.py^;__init__()^;na value check completed
+[2023-08-20 12:12:13,852]^;INFO^;122^;__init__.py^;__init__()^;predict_validation completed successfully
+[2023-08-20 12:12:13,860]^;INFO^;103^;__init__.py^;__init__()^;table creation and data ingestion started

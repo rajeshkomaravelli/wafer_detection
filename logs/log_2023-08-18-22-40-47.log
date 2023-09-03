@@ -1,0 +1,4 @@
+[2023-08-18 22:40:49,151]^;INFO^;99^;__init__.py^;__init__()^;prediction_validaion started
+[2023-08-18 22:40:49,151]^;INFO^;100^;__init__.py^;__init__()^;predict_schema file reading started
+[2023-08-18 22:40:49,151]^;INFO^;105^;__init__.py^;__init__()^;predict_schema file reading completed
+[2023-08-18 22:40:49,151]^;INFO^;116^;__init__.py^;__init__()^;file format checking started

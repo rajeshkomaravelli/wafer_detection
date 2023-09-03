@@ -1,0 +1,28 @@
+[2023-08-20 14:39:13,423]^;INFO^;100^;__init__.py^;__init__()^;validaion started
+[2023-08-20 14:39:13,423]^;INFO^;101^;__init__.py^;__init__()^;schema file reading started
+[2023-08-20 14:39:13,439]^;INFO^;106^;__init__.py^;__init__()^;schema file reading completed
+[2023-08-20 14:39:13,439]^;INFO^;117^;__init__.py^;__init__()^;file format checking started
+[2023-08-20 14:39:14,118]^;INFO^;119^;__init__.py^;__init__()^;file format checking completed
+[2023-08-20 14:39:14,118]^;INFO^;120^;__init__.py^;__init__()^;na value check started
+[2023-08-20 14:39:17,894]^;INFO^;123^;__init__.py^;__init__()^;na value check completed
+[2023-08-20 14:39:17,894]^;INFO^;124^;__init__.py^;__init__()^;validation completed successfully
+[2023-08-20 14:39:17,909]^;INFO^;100^;__init__.py^;__init__()^;validaion started
+[2023-08-20 14:39:17,909]^;INFO^;101^;__init__.py^;__init__()^;schema file reading started
+[2023-08-20 14:39:17,909]^;INFO^;106^;__init__.py^;__init__()^;schema file reading completed
+[2023-08-20 14:39:17,909]^;INFO^;117^;__init__.py^;__init__()^;file format checking started
+[2023-08-20 14:39:17,967]^;INFO^;119^;__init__.py^;__init__()^;file format checking completed
+[2023-08-20 14:39:17,967]^;INFO^;120^;__init__.py^;__init__()^;na value check started
+[2023-08-20 14:39:21,874]^;INFO^;123^;__init__.py^;__init__()^;na value check completed
+[2023-08-20 14:39:21,874]^;INFO^;124^;__init__.py^;__init__()^;validation completed successfully
+[2023-08-20 14:39:22,188]^;INFO^;115^;__init__.py^;__init__()^;table creation and data ingestion started
+[2023-08-20 14:39:24,949]^;INFO^;118^;__init__.py^;__init__()^;table creation and data ingestion completed
+[2023-08-20 14:39:24,949]^;INFO^;119^;__init__.py^;__init__()^;creating input csv started
+[2023-08-20 14:39:28,021]^;INFO^;121^;__init__.py^;__init__()^;creating input csv completed
+[2023-08-20 14:39:28,021]^;INFO^;122^;__init__.py^;__init__()^;checking if any samples have output is null and removing it
+[2023-08-20 14:39:29,493]^;INFO^;124^;__init__.py^;__init__()^;checking if any samples have output is null and removing it is completed
+[2023-08-20 14:39:29,493]^;INFO^;125^;__init__.py^;__init__()^;db insertion and input file creation completed
+[2023-08-20 14:39:29,493]^;INFO^;165^;__init__.py^;__init__()^;inputfile to dataframe conversion started
+[2023-08-20 14:39:29,711]^;INFO^;169^;__init__.py^;__init__()^;input file to dataframe conversion completed
+[2023-08-20 14:39:29,711]^;INFO^;171^;__init__.py^;__init__()^;removing Wafer column started
+[2023-08-20 14:39:29,711]^;INFO^;175^;__init__.py^;__init__()^;removing Wafer column completed
+[2023-08-20 14:39:29,711]^;INFO^;177^;__init__.py^;__init__()^;sepearating dataframe into into input and output features

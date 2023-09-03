@@ -1,0 +1,9 @@
+[2023-08-18 22:36:04,495]^;INFO^;96^;__init__.py^;__init__()^;prediction_validaion started
+[2023-08-18 22:36:04,496]^;INFO^;97^;__init__.py^;__init__()^;predict_schema file reading started
+[2023-08-18 22:36:04,496]^;INFO^;102^;__init__.py^;__init__()^;predict_schema file reading completed
+[2023-08-18 22:36:04,497]^;INFO^;113^;__init__.py^;__init__()^;file format checking started
+[2023-08-18 22:36:04,712]^;INFO^;115^;__init__.py^;__init__()^;file format checking completed
+[2023-08-18 22:36:04,712]^;INFO^;116^;__init__.py^;__init__()^;na value check started
+[2023-08-18 22:36:04,712]^;INFO^;118^;__init__.py^;__init__()^;na value check completed
+[2023-08-18 22:36:04,712]^;INFO^;119^;__init__.py^;__init__()^;predict_validation completed successfully
+[2023-08-18 22:36:04,712]^;INFO^;8^;demo.py^;<module>()^;dbinsertion started

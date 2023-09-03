@@ -1,0 +1,22 @@
+[2023-08-20 12:24:00,887]^;INFO^;96^;__init__.py^;__init__()^;prediction_validaion started
+[2023-08-20 12:24:00,887]^;INFO^;97^;__init__.py^;__init__()^;predict_schema file reading started
+[2023-08-20 12:24:00,888]^;INFO^;102^;__init__.py^;__init__()^;predict_schema file reading completed
+[2023-08-20 12:24:00,888]^;INFO^;113^;__init__.py^;__init__()^;file format checking started
+[2023-08-20 12:24:00,915]^;INFO^;115^;__init__.py^;__init__()^;file format checking completed
+[2023-08-20 12:24:00,915]^;INFO^;116^;__init__.py^;__init__()^;na value check started
+[2023-08-20 12:24:03,400]^;INFO^;118^;__init__.py^;__init__()^;na value check completed
+[2023-08-20 12:24:03,400]^;INFO^;119^;__init__.py^;__init__()^;predict_validation completed successfully
+[2023-08-20 12:24:03,401]^;INFO^;96^;__init__.py^;__init__()^;prediction_validaion started
+[2023-08-20 12:24:03,401]^;INFO^;97^;__init__.py^;__init__()^;predict_schema file reading started
+[2023-08-20 12:24:03,402]^;INFO^;102^;__init__.py^;__init__()^;predict_schema file reading completed
+[2023-08-20 12:24:03,402]^;INFO^;113^;__init__.py^;__init__()^;file format checking started
+[2023-08-20 12:24:03,427]^;INFO^;115^;__init__.py^;__init__()^;file format checking completed
+[2023-08-20 12:24:03,427]^;INFO^;116^;__init__.py^;__init__()^;na value check started
+[2023-08-20 12:24:05,853]^;INFO^;118^;__init__.py^;__init__()^;na value check completed
+[2023-08-20 12:24:05,853]^;INFO^;119^;__init__.py^;__init__()^;predict_validation completed successfully
+[2023-08-20 12:24:05,870]^;INFO^;103^;__init__.py^;__init__()^;table creation and data ingestion started
+[2023-08-20 12:24:08,400]^;INFO^;106^;__init__.py^;__init__()^;table creation and data ingestion completed
+[2023-08-20 12:24:08,400]^;INFO^;107^;__init__.py^;__init__()^;creating input csv started
+[2023-08-20 12:24:10,813]^;INFO^;109^;__init__.py^;__init__()^;creating input csv completed
+[2023-08-20 12:24:10,813]^;INFO^;110^;__init__.py^;__init__()^;db insertion and input file creation completed
+[2023-08-20 12:24:10,814]^;INFO^;10^;demo.py^;<module>()^;dbinsertion started

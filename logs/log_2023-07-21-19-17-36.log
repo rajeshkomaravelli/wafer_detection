@@ -1,0 +1,9 @@
+[2023-07-21 19:17:36,324]^;INFO^;4^;demo.py^;<module>()^;dbinsertion started
+[2023-07-21 19:17:36,332]^;INFO^;97^;__init__.py^;__init__()^;validaion started
+[2023-07-21 19:17:36,333]^;INFO^;98^;__init__.py^;__init__()^;schema file reading started
+[2023-07-21 19:17:36,334]^;INFO^;103^;__init__.py^;__init__()^;schema file reading completed
+[2023-07-21 19:17:36,334]^;INFO^;114^;__init__.py^;__init__()^;file format checking started
+[2023-07-21 19:17:36,619]^;INFO^;116^;__init__.py^;__init__()^;file format checking completed
+[2023-07-21 19:17:36,620]^;INFO^;117^;__init__.py^;__init__()^;na value check started
+[2023-07-21 19:17:43,770]^;INFO^;119^;__init__.py^;__init__()^;na value check completed
+[2023-07-21 19:17:43,770]^;INFO^;120^;__init__.py^;__init__()^;validation completed successfully

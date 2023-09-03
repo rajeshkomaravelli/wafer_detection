@@ -1,0 +1,11 @@
+flask
+flask_cors
+flask_monitoringdashboard
+-e .
+pandas 
+numpy
+shutil
+re
+sqlite3
+matplotlib.pyplot
+subprocess

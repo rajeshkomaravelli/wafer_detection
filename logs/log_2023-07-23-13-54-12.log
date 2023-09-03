@@ -1,0 +1,10 @@
+[2023-07-23 13:54:13,264]^;INFO^;5^;demo.py^;<module>()^;dbinsertion started
+[2023-07-23 13:54:13,264]^;INFO^;116^;__init__.py^;__init__()^;inputfile to dataframe conversion started
+[2023-07-23 13:54:13,703]^;INFO^;120^;__init__.py^;__init__()^;input file to dataframe conversion completed
+[2023-07-23 13:54:13,703]^;INFO^;122^;__init__.py^;__init__()^;removing Wafer column started
+[2023-07-23 13:54:13,708]^;INFO^;126^;__init__.py^;__init__()^;removing Wafer column completed
+[2023-07-23 13:54:13,709]^;INFO^;128^;__init__.py^;__init__()^;sepearating dataframe into into input and output features
+[2023-07-23 13:54:13,709]^;INFO^;132^;__init__.py^;__init__()^;sepearating input and output features completed
+[2023-07-23 13:54:13,858]^;INFO^;137^;__init__.py^;__init__()^;na value filling started
+[2023-07-23 13:54:24,994]^;INFO^;139^;__init__.py^;__init__()^;na value filling completed
+[2023-07-23 13:54:24,994]^;INFO^;140^;__init__.py^;__init__()^;checking if any columns have zero std  

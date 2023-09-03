@@ -1,0 +1,12 @@
+[2023-07-23 14:47:49,190]^;INFO^;116^;__init__.py^;__init__()^;inputfile to dataframe conversion started
+[2023-07-23 14:47:49,463]^;INFO^;120^;__init__.py^;__init__()^;input file to dataframe conversion completed
+[2023-07-23 14:47:49,464]^;INFO^;122^;__init__.py^;__init__()^;removing Wafer column started
+[2023-07-23 14:47:49,480]^;INFO^;126^;__init__.py^;__init__()^;removing Wafer column completed
+[2023-07-23 14:47:49,480]^;INFO^;128^;__init__.py^;__init__()^;sepearating dataframe into into input and output features
+[2023-07-23 14:47:49,481]^;INFO^;132^;__init__.py^;__init__()^;sepearating input and output features completed
+[2023-07-23 14:47:49,640]^;INFO^;137^;__init__.py^;__init__()^;na value filling started
+[2023-07-23 14:48:03,752]^;INFO^;139^;__init__.py^;__init__()^;na value filling completed
+[2023-07-23 14:48:03,752]^;INFO^;140^;__init__.py^;__init__()^;checking if any columns have zero std  
+[2023-07-23 14:48:05,123]^;INFO^;142^;__init__.py^;__init__()^;checking std deviation is zero completed
+[2023-07-23 14:48:05,123]^;INFO^;144^;__init__.py^;__init__()^;deleting columns with zero deviation
+[2023-07-23 14:48:05,128]^;INFO^;146^;__init__.py^;__init__()^;deleting columns with zero deviation Completed

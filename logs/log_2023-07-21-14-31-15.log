@@ -1,0 +1,4 @@
+[2023-07-21 14:31:15,356]^;INFO^;3^;demo.py^;<module>()^;validation started
+[2023-07-21 14:31:15,356]^;INFO^;92^;__init__.py^;__init__()^;validaion started
+[2023-07-21 14:31:15,356]^;INFO^;93^;__init__.py^;__init__()^;schema file reading started
+[2023-07-21 14:31:15,357]^;INFO^;98^;__init__.py^;__init__()^;schema file reading completed

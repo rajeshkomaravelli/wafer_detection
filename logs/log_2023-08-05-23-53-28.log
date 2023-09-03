@@ -1,0 +1,33 @@
+[2023-08-05 23:53:33,712]^;INFO^;5^;demo.py^;<module>()^;dbinsertion started
+[2023-08-05 23:53:33,720]^;INFO^;100^;__init__.py^;__init__()^;validaion started
+[2023-08-05 23:53:33,720]^;INFO^;101^;__init__.py^;__init__()^;schema file reading started
+[2023-08-05 23:53:33,729]^;INFO^;106^;__init__.py^;__init__()^;schema file reading completed
+[2023-08-05 23:53:33,731]^;INFO^;117^;__init__.py^;__init__()^;file format checking started
+[2023-08-05 23:53:34,340]^;INFO^;119^;__init__.py^;__init__()^;file format checking completed
+[2023-08-05 23:53:34,340]^;INFO^;120^;__init__.py^;__init__()^;na value check started
+[2023-08-05 23:53:38,324]^;INFO^;123^;__init__.py^;__init__()^;na value check completed
+[2023-08-05 23:53:38,324]^;INFO^;124^;__init__.py^;__init__()^;validation completed successfully
+[2023-08-05 23:53:38,331]^;INFO^;115^;__init__.py^;__init__()^;table creation and data ingestion started
+[2023-08-05 23:53:41,276]^;INFO^;118^;__init__.py^;__init__()^;table creation and data ingestion completed
+[2023-08-05 23:53:41,276]^;INFO^;119^;__init__.py^;__init__()^;creating input csv started
+[2023-08-05 23:53:43,927]^;INFO^;121^;__init__.py^;__init__()^;creating input csv completed
+[2023-08-05 23:53:43,927]^;INFO^;122^;__init__.py^;__init__()^;checking if any samples have output is null and removing it
+[2023-08-05 23:53:45,493]^;INFO^;124^;__init__.py^;__init__()^;checking if any samples have output is null and removing it is completed
+[2023-08-05 23:53:45,493]^;INFO^;125^;__init__.py^;__init__()^;db insertion and input file creation completed
+[2023-08-05 23:53:45,494]^;INFO^;165^;__init__.py^;__init__()^;inputfile to dataframe conversion started
+[2023-08-05 23:53:45,701]^;INFO^;169^;__init__.py^;__init__()^;input file to dataframe conversion completed
+[2023-08-05 23:53:45,701]^;INFO^;171^;__init__.py^;__init__()^;removing Wafer column started
+[2023-08-05 23:53:45,707]^;INFO^;175^;__init__.py^;__init__()^;removing Wafer column completed
+[2023-08-05 23:53:45,708]^;INFO^;177^;__init__.py^;__init__()^;sepearating dataframe into into input and output features
+[2023-08-05 23:53:45,711]^;INFO^;181^;__init__.py^;__init__()^;sepearating input and output features completed
+[2023-08-05 23:53:45,818]^;INFO^;185^;__init__.py^;__init__()^;na value filling started in input_features
+[2023-08-05 23:53:53,384]^;INFO^;187^;__init__.py^;__init__()^;na value filling completed  in input_features
+[2023-08-05 23:53:53,384]^;INFO^;188^;__init__.py^;__init__()^;checking if any columns have zero std  
+[2023-08-05 23:53:54,206]^;INFO^;190^;__init__.py^;__init__()^;checking std deviation is zero completed
+[2023-08-05 23:53:54,206]^;INFO^;192^;__init__.py^;__init__()^;deleting columns with zero deviation
+[2023-08-05 23:53:54,210]^;INFO^;194^;__init__.py^;__init__()^;deleting columns with zero deviation Completed
+[2023-08-05 23:53:54,210]^;INFO^;196^;__init__.py^;__init__()^;Intiating clustering
+[2023-08-05 23:53:54,210]^;INFO^;197^;__init__.py^;__init__()^;Finding k values process started
+[2023-08-05 23:53:59,144]^;INFO^;199^;__init__.py^;__init__()^;Finding K value process completed
+[2023-08-05 23:53:59,145]^;INFO^;201^;__init__.py^;__init__()^;Creating clusters
+[2023-08-05 23:53:59,344]^;INFO^;203^;__init__.py^;__init__()^;Creating clusters completed

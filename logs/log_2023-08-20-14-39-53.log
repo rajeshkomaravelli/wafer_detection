@@ -1,0 +1,42 @@
+[2023-08-20 14:39:55,537]^;INFO^;100^;__init__.py^;__init__()^;validaion started
+[2023-08-20 14:39:55,537]^;INFO^;101^;__init__.py^;__init__()^;schema file reading started
+[2023-08-20 14:39:55,537]^;INFO^;106^;__init__.py^;__init__()^;schema file reading completed
+[2023-08-20 14:39:55,537]^;INFO^;117^;__init__.py^;__init__()^;file format checking started
+[2023-08-20 14:39:55,591]^;INFO^;119^;__init__.py^;__init__()^;file format checking completed
+[2023-08-20 14:39:55,591]^;INFO^;120^;__init__.py^;__init__()^;na value check started
+[2023-08-20 14:39:59,407]^;INFO^;123^;__init__.py^;__init__()^;na value check completed
+[2023-08-20 14:39:59,407]^;INFO^;124^;__init__.py^;__init__()^;validation completed successfully
+[2023-08-20 14:39:59,407]^;INFO^;100^;__init__.py^;__init__()^;validaion started
+[2023-08-20 14:39:59,407]^;INFO^;101^;__init__.py^;__init__()^;schema file reading started
+[2023-08-20 14:39:59,407]^;INFO^;106^;__init__.py^;__init__()^;schema file reading completed
+[2023-08-20 14:39:59,407]^;INFO^;117^;__init__.py^;__init__()^;file format checking started
+[2023-08-20 14:39:59,469]^;INFO^;119^;__init__.py^;__init__()^;file format checking completed
+[2023-08-20 14:39:59,469]^;INFO^;120^;__init__.py^;__init__()^;na value check started
+[2023-08-20 14:40:03,089]^;INFO^;123^;__init__.py^;__init__()^;na value check completed
+[2023-08-20 14:40:03,089]^;INFO^;124^;__init__.py^;__init__()^;validation completed successfully
+[2023-08-20 14:40:03,105]^;INFO^;115^;__init__.py^;__init__()^;table creation and data ingestion started
+[2023-08-20 14:40:05,692]^;INFO^;118^;__init__.py^;__init__()^;table creation and data ingestion completed
+[2023-08-20 14:40:05,692]^;INFO^;119^;__init__.py^;__init__()^;creating input csv started
+[2023-08-20 14:40:08,712]^;INFO^;121^;__init__.py^;__init__()^;creating input csv completed
+[2023-08-20 14:40:08,712]^;INFO^;122^;__init__.py^;__init__()^;checking if any samples have output is null and removing it
+[2023-08-20 14:40:10,175]^;INFO^;124^;__init__.py^;__init__()^;checking if any samples have output is null and removing it is completed
+[2023-08-20 14:40:10,175]^;INFO^;125^;__init__.py^;__init__()^;db insertion and input file creation completed
+[2023-08-20 14:40:10,190]^;INFO^;165^;__init__.py^;__init__()^;inputfile to dataframe conversion started
+[2023-08-20 14:40:10,437]^;INFO^;169^;__init__.py^;__init__()^;input file to dataframe conversion completed
+[2023-08-20 14:40:10,437]^;INFO^;171^;__init__.py^;__init__()^;removing Wafer column started
+[2023-08-20 14:40:10,437]^;INFO^;175^;__init__.py^;__init__()^;removing Wafer column completed
+[2023-08-20 14:40:10,437]^;INFO^;177^;__init__.py^;__init__()^;sepearating dataframe into into input and output features
+[2023-08-20 14:40:10,437]^;INFO^;181^;__init__.py^;__init__()^;sepearating input and output features completed
+[2023-08-20 14:40:10,547]^;INFO^;185^;__init__.py^;__init__()^;na value filling started in input_features
+[2023-08-20 14:40:18,893]^;INFO^;187^;__init__.py^;__init__()^;na value filling completed  in input_features
+[2023-08-20 14:40:18,893]^;INFO^;188^;__init__.py^;__init__()^;checking if any columns have zero std  
+[2023-08-20 14:40:19,410]^;INFO^;190^;__init__.py^;__init__()^;checking std deviation is zero completed
+[2023-08-20 14:40:19,410]^;INFO^;192^;__init__.py^;__init__()^;deleting columns with zero deviation
+[2023-08-20 14:40:19,410]^;INFO^;194^;__init__.py^;__init__()^;deleting columns with zero deviation Completed
+[2023-08-20 14:40:19,410]^;INFO^;196^;__init__.py^;__init__()^;Intiating clustering
+[2023-08-20 14:40:19,410]^;INFO^;197^;__init__.py^;__init__()^;Finding k values process started
+[2023-08-20 14:40:24,224]^;INFO^;199^;__init__.py^;__init__()^;Finding K value process completed
+[2023-08-20 14:40:24,224]^;INFO^;201^;__init__.py^;__init__()^;Creating clusters
+[2023-08-20 14:40:24,413]^;INFO^;203^;__init__.py^;__init__()^;Creating clusters completed
+[2023-08-20 15:03:46,617]^;INFO^;261^;__init__.py^;__init__()^;model selection started
+[2023-08-20 15:03:46,646]^;INFO^;12^;demo.py^;<module>()^;dbinsertion started

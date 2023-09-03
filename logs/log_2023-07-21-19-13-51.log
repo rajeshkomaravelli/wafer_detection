@@ -1,0 +1,12 @@
+[2023-07-21 19:13:51,500]^;INFO^;4^;demo.py^;<module>()^;dbinsertion started
+[2023-07-21 19:13:51,508]^;INFO^;97^;__init__.py^;__init__()^;validaion started
+[2023-07-21 19:13:51,508]^;INFO^;98^;__init__.py^;__init__()^;schema file reading started
+[2023-07-21 19:13:51,509]^;INFO^;103^;__init__.py^;__init__()^;schema file reading completed
+[2023-07-21 19:13:51,510]^;INFO^;114^;__init__.py^;__init__()^;file format checking started
+[2023-07-21 19:13:51,610]^;INFO^;116^;__init__.py^;__init__()^;file format checking completed
+[2023-07-21 19:13:51,610]^;INFO^;117^;__init__.py^;__init__()^;na value check started
+[2023-07-21 19:13:55,947]^;INFO^;119^;__init__.py^;__init__()^;na value check completed
+[2023-07-21 19:13:55,947]^;INFO^;120^;__init__.py^;__init__()^;validation completed successfully
+[2023-07-21 19:13:55,947]^;INFO^;50^;__init__.py^;__init__()^;table creation and data ingestion started
+[2023-07-21 19:13:58,048]^;INFO^;52^;__init__.py^;__init__()^;table creation and data ingestion completed
+[2023-07-21 19:13:58,048]^;INFO^;53^;__init__.py^;__init__()^;creating input csv started

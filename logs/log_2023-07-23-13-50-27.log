@@ -1,0 +1,4 @@
+[2023-07-23 13:50:29,238]^;INFO^;5^;demo.py^;<module>()^;dbinsertion started
+[2023-07-23 13:50:29,239]^;INFO^;117^;__init__.py^;__init__()^;inputfile to dataframe conversion started
+[2023-07-23 13:50:29,564]^;INFO^;121^;__init__.py^;__init__()^;input file to dataframe conversion completed
+[2023-07-23 13:50:29,564]^;INFO^;123^;__init__.py^;__init__()^;removing Wafer column started

@@ -1,0 +1,8 @@
+[2023-07-23 13:53:36,696]^;INFO^;5^;demo.py^;<module>()^;dbinsertion started
+[2023-07-23 13:53:36,696]^;INFO^;117^;__init__.py^;__init__()^;inputfile to dataframe conversion started
+[2023-07-23 13:53:36,934]^;INFO^;121^;__init__.py^;__init__()^;input file to dataframe conversion completed
+[2023-07-23 13:53:36,934]^;INFO^;123^;__init__.py^;__init__()^;removing Wafer column started
+[2023-07-23 13:53:36,953]^;INFO^;127^;__init__.py^;__init__()^;removing Wafer column completed
+[2023-07-23 13:53:36,953]^;INFO^;129^;__init__.py^;__init__()^;sepearating dataframe into into input and output features
+[2023-07-23 13:53:36,955]^;INFO^;133^;__init__.py^;__init__()^;sepearating input and output features completed
+[2023-07-23 13:53:37,074]^;INFO^;138^;__init__.py^;__init__()^;na value filling started

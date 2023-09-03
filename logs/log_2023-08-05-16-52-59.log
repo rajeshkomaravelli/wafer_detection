@@ -1,0 +1,14 @@
+[2023-08-05 16:53:07,098]^;INFO^;5^;demo.py^;<module>()^;dbinsertion started
+[2023-08-05 16:53:07,100]^;INFO^;100^;__init__.py^;__init__()^;validaion started
+[2023-08-05 16:53:07,100]^;INFO^;101^;__init__.py^;__init__()^;schema file reading started
+[2023-08-05 16:53:07,119]^;INFO^;106^;__init__.py^;__init__()^;schema file reading completed
+[2023-08-05 16:53:07,120]^;INFO^;117^;__init__.py^;__init__()^;file format checking started
+[2023-08-05 16:53:08,076]^;INFO^;119^;__init__.py^;__init__()^;file format checking completed
+[2023-08-05 16:53:08,076]^;INFO^;120^;__init__.py^;__init__()^;na value check started
+[2023-08-05 16:53:13,924]^;INFO^;123^;__init__.py^;__init__()^;na value check completed
+[2023-08-05 16:53:13,924]^;INFO^;124^;__init__.py^;__init__()^;validation completed successfully
+[2023-08-05 16:53:13,925]^;INFO^;115^;__init__.py^;__init__()^;table creation and data ingestion started
+[2023-08-05 16:53:18,428]^;INFO^;118^;__init__.py^;__init__()^;table creation and data ingestion completed
+[2023-08-05 16:53:18,428]^;INFO^;119^;__init__.py^;__init__()^;creating input csv started
+[2023-08-05 16:53:23,007]^;INFO^;121^;__init__.py^;__init__()^;creating input csv completed
+[2023-08-05 16:53:23,007]^;INFO^;122^;__init__.py^;__init__()^;checking if any samples have output is null and removing it

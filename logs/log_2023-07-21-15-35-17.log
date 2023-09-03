@@ -1,0 +1,19 @@
+[2023-07-21 15:37:53,721]^;INFO^;97^;__init__.py^;__init__()^;validaion started
+[2023-07-21 15:37:53,726]^;INFO^;98^;__init__.py^;__init__()^;schema file reading started
+[2023-07-21 15:37:53,765]^;INFO^;103^;__init__.py^;__init__()^;schema file reading completed
+[2023-07-21 15:37:53,766]^;INFO^;114^;__init__.py^;__init__()^;file format checking started
+[2023-07-21 15:37:54,567]^;INFO^;116^;__init__.py^;__init__()^;file format checking completed
+[2023-07-21 15:37:54,567]^;INFO^;117^;__init__.py^;__init__()^;na value check started
+[2023-07-21 15:38:00,125]^;INFO^;119^;__init__.py^;__init__()^;na value check completed
+[2023-07-21 15:38:00,125]^;INFO^;120^;__init__.py^;__init__()^;validation completed successfully
+[2023-07-21 16:02:49,639]^;INFO^;66^;authentication.py^;get_auth_plugin()^;package: mysql.connector.plugins
+[2023-07-21 16:02:49,640]^;INFO^;67^;authentication.py^;get_auth_plugin()^;plugin_name: caching_sha2_password
+[2023-07-21 16:02:49,643]^;INFO^;71^;authentication.py^;get_auth_plugin()^;AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+[2023-07-21 16:18:09,580]^;INFO^;97^;__init__.py^;__init__()^;validaion started
+[2023-07-21 16:18:09,582]^;INFO^;98^;__init__.py^;__init__()^;schema file reading started
+[2023-07-21 16:18:09,585]^;INFO^;103^;__init__.py^;__init__()^;schema file reading completed
+[2023-07-21 16:18:09,588]^;INFO^;114^;__init__.py^;__init__()^;file format checking started
+[2023-07-21 16:18:09,772]^;INFO^;116^;__init__.py^;__init__()^;file format checking completed
+[2023-07-21 16:18:09,772]^;INFO^;117^;__init__.py^;__init__()^;na value check started
+[2023-07-21 16:18:15,080]^;INFO^;119^;__init__.py^;__init__()^;na value check completed
+[2023-07-21 16:18:15,080]^;INFO^;120^;__init__.py^;__init__()^;validation completed successfully

@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: Wafer-detection
+Version: 0.0.1
+Summary: This model will predict whether a wafer is faulty one or not
+Author: Rajeshkomaravelly
+License-File: LICENSE
